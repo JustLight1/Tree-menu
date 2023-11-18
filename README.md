@@ -43,7 +43,7 @@ Django 4.2
 <br>
 
 ~~~
-склонировать проект git clone git@github.com:JustLight1/certificates-and-commendations.git
+склонировать проект git clone git@github.com:JustLight1/Tree-menu.git
 ~~~
 - При первом запуске для функционирования проекта обязательно установить виртуальное окружение, установить зависимости,  выполнить миграции:
 
